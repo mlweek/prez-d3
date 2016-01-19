@@ -2,7 +2,7 @@ name: inverse
 layout: true
 class: center, middle
 ---
-# De la donnée à l'information intéractive
+# De la donnée à l'information interactive
 par Rossi Oddet
 ---
 ## Donnée ou Information ?

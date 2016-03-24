@@ -9,5 +9,5 @@ Les slides :
 ## Mars 2016 - BreizhCamp
 
 Les slides :
-* [Mais qu'est ce que je fous ?](http://www.ml-week.com/talks/BREIZCAMP_2016/ML/talk.pdf) par Jeff Abrahamson
-* [De la donnée à l'information interactive](http://www.ml-week.com/talks/BREIZCAMP_2016/D3) par Rossi Oddet
+* [Mais qu'est ce que je fous ?](http://www.ml-week.com/talks/BREIZHCAMP_2016/ML/talk.pdf) par Jeff Abrahamson
+* [De la donnée à l'information interactive](http://www.ml-week.com/talks/BREIZHCAMP_2016/D3) par Rossi Oddet
